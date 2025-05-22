@@ -1,0 +1,30 @@
+[
+    {
+      "role": "Bilingual Web Developer",
+      "organisation": "Yorktel",
+      "startDate": "April, 2023",
+      "endDate": "August, 2024",
+      "experiences": ["Worked on the Social Security Administration's website", "Delivered hundreds of web content updates"],
+      "imageSrc": "assets/history/google.png"
+    },
+    {
+      "role": "B.S. Degree in Computer Science",
+      "organisation": "University of Maryland Global Campus",
+      "startDate": "",
+      "endDate": "",
+      "experiences": [
+        "Successfully completed the Computer Science major curriculum",
+        "Created a university website for my capstone project"
+      ],
+      "imageSrc": "assets/history/UMGC-Seal.png"
+    },
+    {
+      "role": "Google UX Design Professional Certificate",
+      "organisation": "Coursera",
+      "startDate": "",
+      "endDate": "May, 2025",
+      "experiences": ["Completed seven courses, developed by Google to prepare for roles in UX design", "Design projects from concept to launch"],
+      "imageSrc": "assets/history/ux.png"
+    }
+
+  ]

@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "assets/projects/vmu.png",
+      "description": "Developed a university website. Features student registration, course enrollment, user log-in and log-out functionality, with HTML, CSS, and more.",
+      "skills": ["Python", "Flask", "HTML", "CSS"],
+      "demo": "https://vmu-edu.onrender.com/",
+      "source": "https://github.com/kimmiev214/CourseRegistrationWebsite"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "assets/projects/mobile.png",
+      "description": "Designed a dedicated mobile app for a public art museum to advertise events, enable patrons to plan visits, and make ticket reservations.",
+      "skills": ["UI/UX", "Mobile UX", "Hi-fidelity Prototype"],
+      "demo": "https://www.figma.com/proto/IFHrop9ZV4H2sLHUbBiErb/Museum-app?node-id=28-335&p=f&t=ws0sdRoN9HjJ4qo6-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=21%3A193",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "assets/projects/project.png",
+      "description": "Full-stack weather app. Features Open Weather API, providing real-time updates on any location around the world, and search city by name.",
+      "skills": ["Angular 15", "API", "HTML", "CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/kimmiev214/angular-weather"
+    }
+  ]
